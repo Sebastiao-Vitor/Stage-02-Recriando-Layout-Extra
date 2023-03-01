@@ -1,4 +1,4 @@
-# Recriando Layout 
+# Recriando Layout
 
 ![preview](preview.png)
 
@@ -6,18 +6,18 @@
 
 Projeto construido atraves dos desafios do Stage 02 do Explorer.
 
- [ 🔗 Clique aqui para acessar]()
+ [🔗 Clique aqui para acessar]()
 
-  ## 🧰🛠️ Tecnologias
+## 🧰🛠️ Tecnologias
 
- - HTML
- - CSS
+- HTML
+- CSS
  -Git e Github
 
- ## 💛 Contato 
+## 💛 Contato
 
- sebastiaovitor18@gmail.com
+sebastiaovitor18@gmail.com
 =======
 
-De volta aos estudos com tudo. 
-😁bora codar
+De volta aos estudos com tudo.
+😁bora codar.
