@@ -6,7 +6,7 @@
 
 Projeto construido atraves dos desafios do Stage 02 do Explorer.
 
- [🔗 Clique aqui para acessar]()
+ [🔗 Clique aqui para acessar](https://sebastiao-vitor.github.io/Stage-02-Recriando-Layout-Extra/)
 
 ## 🧰🛠️ Tecnologias
 
