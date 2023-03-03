@@ -2,11 +2,13 @@ body {
   font-family: 'Open Sans';
   box-sizing: border-box;
   margin: 0;
+  height: 100vh;
 }
 
 main {
   width: 626px;
-  margin: 64px auto 0;
+  padding-top: 64px;
+  margin: 0 auto;
   text-align: center;
 }
 
@@ -45,7 +47,7 @@ p strong {
   display: flex;
   justify-content: center;
 
-  margin-bottom: 40px;
+  padding-bottom: 40px;
 }
 
 #linhas p + p {
@@ -53,6 +55,6 @@ p strong {
 }
 
 #Wave {
+  display: flex;
   width: -webkit-fill-available;
-  margin-bottom: 0;
 }
